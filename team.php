@@ -228,15 +228,15 @@
                                 <div class="share-box">
                                     <p><i class="fas fa-share-alt"></i>Share</p>
                                     <ul class="social-links clearfix">
-                                        <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://www.facebook.com/sanny.stha.14"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/santosh-shrestha-3972b618b/"><i class="fab fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </figure>
                             <div class="lower-content">
-                                <h3><a href="index.php">Santosh Shrestha</a></h3>
+                                <h3><a href="https://www.linkedin.com/in/santosh-shrestha-3972b618b/">Santosh Shrestha</a></h3>
                                 <span class="designation">Managing Director</span>
                             </div>
                         </div>
@@ -268,16 +268,16 @@
                                     <div class="share-box">
                                         <p><i class="fas fa-share-alt"></i>Share</p>
                                         <ul class="social-links clearfix">
-                                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/in/yogeshwary-gowda-b3101b1a2/"><i class="fab fa-linkedin"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="index.php">Yogeshwary</a></h3>
-                                    <span class="designation">Team Lead Recruiter</span>
+                                    <h3><a href="#">Yogeshwary</a></h3>
+                                    <span class="designation">Team Lead Recruiter, IT</span>
                                 </div>
                             </div>
                         </div>
@@ -286,21 +286,21 @@
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="assets/images/team/ash.jpeg" alt="">
+                                    <img src="assets/images/team/prajeetha.jpeg" alt="" style="object-fit:contain">
                                     <span class="singature">Our Champ</span>
                                     <div class="share-box">
                                         <p><i class="fas fa-share-alt"></i>Share</p>
                                         <ul class="social-links clearfix">
-                                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="index.php">Aishwarya. H</a></h3>
-                                    <span class="designation">Sr. Recuriter</span>
+                                    <h3><a href="#">Prajeeta.R</a></h3>
+                                    <span class="designation">Team Lead Recuriter, Non-IT</span>
                                 </div>
                             </div>
                         </div>
@@ -314,15 +314,15 @@
                                     <div class="share-box">
                                         <p><i class="fas fa-share-alt"></i>Share</p>
                                         <ul class="social-links clearfix">
-                                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
-                                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="index.php">Yashaswini</a></h3>
+                                    <h3><a href="#">Yashaswini</a></h3>
                                     <span class="designation">Recruiter</span>
                                 </div>
                             </div>

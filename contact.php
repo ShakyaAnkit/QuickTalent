@@ -207,7 +207,7 @@
                         <a href="http://www.kprtechno.com/"><img src="assets/images/clients/kpr.png" alt=""></a>
                     </figure>
                     <figure class="clients-logo-box">
-                        <a href="http://geovista.in/"><img src="assets/images/clients/geovista.png" alt=""></a>
+                        <a href="http://https://www.kptechnologies.com/"><img src="assets/images/clients/kp.png" alt=""></a>
                     </figure>
                     <figure class="clients-logo-box">
                         <a href="https://www.sonata-software.com/"><img src="assets/images/clients/sonata.png" alt=""></a>

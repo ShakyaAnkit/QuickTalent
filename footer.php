@@ -16,10 +16,10 @@
                                     </div>
                                     <ul class="social-links clearfix">
                                         <li><h5>Connected:</h5></li>
-                                        <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://www.facebook.com/QuickTalent-Consulting-Services-102094105079226"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://twitter.com/Quicktalent1"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/company/quick-talent-consulting-services/?viewAsMember=true"><i class="fab fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

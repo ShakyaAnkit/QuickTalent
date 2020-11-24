@@ -164,8 +164,8 @@
                         <span class="logo-title"><a href="http://www.kprtechno.com/">Visit Website</a></span>
                     </figure>
                     <figure class="clients-logo-box">
-                        <a href="http://geovista.in/"><img src="assets/images/clients/geovista.png" alt=""></a>
-                        <span class="logo-title"><a href="http://geovista.in/">Visit Website</a></span>
+                        <a href="http://geovista.in/"><img src="assets/images/clients/kp.png" alt=""></a>
+                        <span class="logo-title"><a href="https://www.kptechnologies.com/">Visit Website</a></span>
                     </figure>
                     <figure class="clients-logo-box">
                         <a href="https://www.sonata-software.com/"><img src="assets/images/clients/sonata.png" alt=""></a>
